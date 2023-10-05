@@ -5,12 +5,13 @@
 After completing this exercise, you should be able to discuss or answer the following questions:
 
 - What tags are necessary for a complete HTML Skeleton?
-
+  The necessary tags are: start tag and end tag
 - What type of content belongs within the `<head>` of an HTML document?
-
+  contains meta information about the HTML page
 - What type of content belongs within the `<body>` of an HTML document?
-
+  container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
 - Where must the `DOCTYPE` declaration appear in a valid HTML document?
+  first thing before any html tags
 
 ## Notes
 
